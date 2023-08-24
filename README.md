@@ -13,8 +13,8 @@ Hardware:
 
 
 Software setup (Cube MX):
-1. NVIC: PC0 / I2C signal / alt func open drain / pull-up / max output speed high
-2. NVIC: PC1 / I2C signal / alt func open drain / pull-up / max output speed high
+1. NVIC: PC0 / I2C SCL signal / alt func open drain / pull-up / max output speed high
+2. NVIC: PC1 / I2C SDA signal / alt func open drain / pull-up / max output speed high
 3. Hclk 1 and 2 : 16MHz
 
 For code content:
